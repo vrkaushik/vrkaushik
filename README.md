@@ -12,7 +12,7 @@ I am an aspiring Security Engineer.
 - 🔭 I’m currently working as a Security Engineer Coop at Akamai
 - 🌱 I’m currently learning Supply Chain Security
 - 👯 I’m looking to collaborate on Security Projects
-- 💬 Ask me about anything
+- 💬 Ask me about anything security
 - 📫 How to reach me: vrkaushik20@gmail.com
 - ⚡ Fun fact: Let me think first
 
